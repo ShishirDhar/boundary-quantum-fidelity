@@ -8,3 +8,5 @@ experiments/results/
 *.pt
 *.pth
 *.ckpt
+HAM10000_*
+resnet18_transfer/runs/*/test_predictions.csv
